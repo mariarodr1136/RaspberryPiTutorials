@@ -41,7 +41,7 @@ All projects and tutorials in this repository are built using components from th
 
 ## 📂 Repository Structure
 ```
-raspberrypi-tutorials/
+RaspberryPiTutorials/
 │
 ├── GPIO_Basics/
 │   ├── blink_led.py
