@@ -123,6 +123,12 @@ python3 buttonLED.py
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/26564b1f-20fd-4b65-bfa2-ecd2772ea7b7" alt="IMG_4517" width="400">
+</p>
+
+---
+
 ## 🧩 Topics Covered
 
 - GPIO setup and cleanup
@@ -173,6 +179,7 @@ python3 buttonLED.py
 - Include camera and image processing projects
 - Explore IoT integration with AWS and MQTT
 
+  
 
 ---
 
