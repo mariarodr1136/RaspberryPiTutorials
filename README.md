@@ -27,7 +27,7 @@ You'll find beginner-friendly examples in **Python**, plus explanations on how t
 ## 🛠️ Hardware & Kit Information
 
 **Hardware Platform:**
-- **Raspberry Pi 4 Model B** (4GB)
+- **Raspberry Pi 4 Model B** 
 
 **Learning Kit:**
 - **SunFounder Raphael Ultimate Starter Kit**
@@ -81,7 +81,7 @@ RaspberryPiTutorials/
 Make sure you have the following installed on your Raspberry Pi:
 
 - Raspberry Pi OS 
-- Python 3 (usually preinstalled)  
+- Python 3 
 - `RPi.GPIO` or `gpiozero` module  
 - `lgpio` (for advanced GPIO control)
 - `time`, `os`, `sys` (standard libraries)
@@ -98,8 +98,8 @@ sudo apt install python3-gpiozero
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/<your-username>/raspberry-pi-tutorials.git
-cd raspberry-pi-tutorials
+git clone https://github.com/<your-username>/RaspberryPiTutorials.git
+cd RaspberryPiTutorials
 ```
 
 2. Open any tutorial folder, for example:
@@ -109,7 +109,7 @@ cd GPIO_Basics
 
 3. Run the script with:
 ```bash
-python3 blink_led.py
+python3 buttonLED.py
 ```
 
 ---
