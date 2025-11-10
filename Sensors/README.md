@@ -17,3 +17,4 @@ This section contains examples of reading sensor data using Raspberry Pi GPIO pi
 - HC-SR04 ultrasonic distance sensor
 - Tilt switch sensor
 - Breadboard and jumper wires
+- PIR motion sensor  
