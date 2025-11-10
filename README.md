@@ -58,6 +58,7 @@ RaspberryPiLab/
 ├── Sensors/
 │   ├── echoLocation.py           # Ultrasonic distance sensor (HC-SR04)
 │   ├── tiltTest.py               # Tilt sensor reading
+│   ├── sos.py                    # Calculates the speed of sound (MPH) using ultrasonic sensor timing
 │   └── README.md
 │
 ├── ADC_Examples/
