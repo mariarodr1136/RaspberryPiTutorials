@@ -5,6 +5,7 @@ This section contains examples of reading sensor data using Raspberry Pi GPIO pi
 ## Included Scripts
 - **echoLocation.py** – Measures distance using an ultrasonic sensor (HC-SR04).
 - **tiltTest.py** – Detects tilt motion using a tilt sensor.
+- **sos.py** – Calculates the speed of sound in miles per hour (MPH) using timing data from an ultrasonic sensor (HC-SR04).
 
 ## Concepts Covered
 - Reading digital input values
