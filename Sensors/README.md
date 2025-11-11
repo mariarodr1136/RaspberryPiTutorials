@@ -1,4 +1,4 @@
-# Sensors
+# Sensors 🌡️
 
 This section contains examples of reading sensor data and displaying information using Raspberry Pi GPIO pins and an LCD. Each script demonstrates how to interface with different types of sensors and output devices.
 
