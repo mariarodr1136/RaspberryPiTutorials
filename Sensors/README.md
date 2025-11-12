@@ -2,6 +2,14 @@
 
 This section contains examples of reading sensor data and displaying information using Raspberry Pi GPIO pins and an LCD. Each script demonstrates how to interface with different types of sensors and output devices.
 
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6cc2edc5-19a3-4ea4-a4c3-c09993a518a3" alt="IMG_5037" width="600" height="700">
+</p>
+
+---
+
 ## Included Scripts
 
 - **echoLocation.py** – Measures distance using an ultrasonic sensor (HC-SR04).  
@@ -14,13 +22,6 @@ This section contains examples of reading sensor data and displaying information
 - **tempHumidity.py** – Reads temperature and humidity from a DHT11 sensor and prints the values to the terminal.  
 - **tempBuzzerAlarm.py** – Monitors temperature using a DHT11 sensor and an ADC0834 analog input. Displays temperature and humidity on the LCD1602 and activates a buzzer when the temperature exceeds a user-set threshold. Includes a button to switch between “Set Trip Temp” mode and “Monitor Temp” mode.
 
----
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c30a05f2-884c-4a36-9dce-bc1718a4a768" alt="IMG_4979" width="600" height="700">
-</p>
-
----
 
 ## Concepts Covered
 
@@ -43,3 +44,11 @@ This section contains examples of reading sensor data and displaying information
 - Breadboard and jumper wires  
 - Push button (for switching modes or setting trip temperature)  
 - Active buzzer
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c30a05f2-884c-4a36-9dce-bc1718a4a768" alt="IMG_4979" width="600" height="700">
+</p>
+
+---
