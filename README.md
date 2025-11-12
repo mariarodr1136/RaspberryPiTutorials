@@ -194,13 +194,13 @@ python3 buttonLED.py
 ### Integrated Circuits & Components
 - ✅ ADC0834 chip
 - 2x 74HC595 shift registers  
-- Transistors (5x 8550 PNP / 5x S8050 NPN)  
+- ✅ Transistors (5x 8550 PNP / 5x S8050 NPN)  
 - Diodes (IN4007, Zener)  
 - Capacitors: 5x 10 μF, (10+10)x 104/103 pF  
 - ✅ Resistors (assorted, includes 220 Ω)  
 
 ### Miscellaneous
-- Passive & active buzzers (2+2x)  
+- ✅ Passive & active buzzers (2+2x)  
 - ✅ Various sensors (temperature, light, etc.)  
 - Caps (10x 6×6 mm tactile caps)  
 
