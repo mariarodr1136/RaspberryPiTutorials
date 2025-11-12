@@ -55,6 +55,8 @@ RaspberryPiLab/
 │   ├── binCount.py               # Sequential LED blinking example
 │   ├── myDim.py                  # PWM LED dimmer using buttons
 │   ├── myRGBbutton.py            # RGB LED controlled by multiple buttons
+│   ├── passive-beep.py           # Demonstrates PWM control of a passive buzzer
+│   ├── active-beep.py            # Demonstrates digital on/off control of an active buzzer
 │   └── README.md
 │
 ├── Sensors/
@@ -66,6 +68,7 @@ RaspberryPiLab/
 │   ├── LCD1602.py                # Low-level library for controlling LCD1602
 │   ├── tempLCD.py                # Reads DHT11 sensor and displays temperature/humidity on LCD
 │   ├── tempHumidity.py           # Reads DHT11 sensor and prints temperature/humidity to terminal
+│   ├── tempBuzzerAlarm.py        # Monitors temperature and humidity, displays on LCD, and triggers buzzer alerts
 │   └── README.md                 # Documentation for all sensor scripts
 │
 ├── ADC_Examples/
