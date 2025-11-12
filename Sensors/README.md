@@ -11,7 +11,8 @@ This section contains examples of reading sensor data and displaying information
 - **lcdDisplay.py** – Demonstrates how to display text on an I2C LCD1602 screen. Continuously prints messages like "Hello, World!" and "RPi LCD1602".  
 - **LCD1602.py** – Provides low-level functions to control an LCD1602 via I2C, including initialization, writing text, clearing the screen, and enabling the backlight.  
 - **tempLCD.py** – Reads temperature and humidity from a DHT11 sensor and displays the values on the LCD1602. Includes a button to switch between Celsius and Fahrenheit modes.  
-- **tempHumidity.py** – Reads temperature and humidity from a DHT11 sensor and prints the values to the terminal.
+- **tempHumidity.py** – Reads temperature and humidity from a DHT11 sensor and prints the values to the terminal.  
+- **tempBuzzerAlarm.py** – Monitors temperature using a DHT11 sensor and an ADC0834 analog input. Displays temperature and humidity on the LCD1602 and activates a buzzer when the temperature exceeds a user-set threshold. Includes a button to switch between “Set Trip Temp” mode and “Monitor Temp” mode.
 
 ---
 
@@ -29,6 +30,8 @@ This section contains examples of reading sensor data and displaying information
 - Sensor calibration and real-time data reading  
 - Displaying information on an I2C LCD screen  
 - Switching between measurement modes (Celsius/Fahrenheit) using a button  
+- Setting custom threshold values for alerts  
+- Using a buzzer for temperature alarms  
 
 ## Hardware Needed
 
@@ -38,5 +41,5 @@ This section contains examples of reading sensor data and displaying information
 - DHT11 temperature and humidity sensor  
 - LCD1602 I2C display  
 - Breadboard and jumper wires  
-- Push button (for switching temperature units in `tempLCD.py`)
-
+- Push button (for switching modes or setting trip temperature)  
+- Active buzzer
