@@ -136,7 +136,7 @@ python3 buttonLED.py
 - ✅ Raspberry Pi 4 Model B (4GB)
 - ✅ Breadboard & jumper wires
 - ✅ Breadboard power module  
-- 40-Pin GPIO cable  
+- ✅ 40-Pin GPIO cable  
 - ✅ T-shape extension board  
 - 9V battery  
 
