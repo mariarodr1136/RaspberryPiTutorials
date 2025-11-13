@@ -13,7 +13,7 @@ try:
     while True:
         motion=GPIO.input(motionPin)
         lightVal=ADC0834.getResult(0)
-        print("Light Value: ", lightVal, " Motion: ", motion    )
+        print("Light Value: ", lightVal, " Motion: ", motion)
         sleep(.1)
         if motion==1 and lightVal<140:
             GPIO.output(buzzPin,GPIO.LOW)
