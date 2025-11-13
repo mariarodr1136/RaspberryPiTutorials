@@ -49,7 +49,7 @@ RaspberryPiLab/
 │   ├── myRGBbutton.py            # RGB LED controlled by multiple buttons
 │   ├── passive-beep.py           # Demonstrates PWM control of a passive buzzer
 │   ├── active-beep.py            # Demonstrates digital on/off control of an active buzzer
-│   └── README.md
+│   └── README.md                 # Documentation for all GPIO_Basics scripts
 │
 ├── Sensors/
 │   ├── echoLocation.py           # Ultrasonic distance sensor (HC-SR04)
@@ -61,19 +61,19 @@ RaspberryPiLab/
 │   ├── tempLCD.py                # Reads DHT11 sensor and displays temperature/humidity on LCD
 │   ├── tempHumidity.py           # Reads DHT11 sensor and prints temperature/humidity to terminal
 │   ├── tempBuzzerAlarm.py        # Monitors temperature and humidity, displays on LCD, and triggers buzzer alerts
-│   └── README.md                 # Documentation for all sensor scripts
+│   └── README.md                 # Documentation for all Sensor scripts
 │
 ├── ADC_Examples/
 │   ├── anIn.py                   # Basic analog input using ADC0834
 │   ├── joyStick.py               # Joystick X/Y reading via ADC0834
 │   ├── potServo.py               # Potentiometer controlling a servo motor
 │   ├── RGBmix.py                 # RGB LED color mixing via analog inputs
-│   └── README.md
+│   └── README.md                 # Documentation for all ADC_Examples scripts
 │
 └── Projects/
     ├── motion_alarm_system.py    # (future project placeholder)
     ├── rgb_led_controller.py     # (future project placeholder)
-    └── README.md
+    └── README.md                 # Documentation for all Projects scripts
 ```
 
 ---
