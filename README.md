@@ -70,8 +70,7 @@ RaspberryPiLab/
 │   └── README.md                 # Documentation for all ADC_Examples scripts
 │
 └── Projects/
-    ├── motion_alarm_system.py    # (future project placeholder)
-    ├── rgb_led_controller.py     # (future project placeholder)
+    ├── motion-dark-alarm.py      # Motion and light detection alarm with buzzer alert
     └── README.md                 # Documentation for all Projects scripts
 ```
 
@@ -171,7 +170,7 @@ python3 buttonLED.py
 ### Sensors
 - ✅ Ultrasonic sensor (HC-SR04)  
 - Thermistor  
-- Photoresistor (LDR)  
+- ✅ Photoresistor (LDR)  
 - MPU6050 accelerometer & gyroscope  
 
 ### Motors & Drivers
