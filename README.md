@@ -32,7 +32,8 @@ All experiments in this repository are built using components from this kit, ens
 
 ---
 
-![IMG_5084](https://github.com/user-attachments/assets/0251e93a-90b5-409a-94c3-4f7581f677ca)
+![IMG_5222](https://github.com/user-attachments/assets/893a5644-f4ec-4bd1-b9a3-097dc91e47c6)
+
 
 ---
 
@@ -127,7 +128,8 @@ python3 buttonLED.py
 
 ---
 
-![IMG_5085](https://github.com/user-attachments/assets/dfd09dc2-cda8-4642-8f19-ca4e95483955)
+![IMG_5223](https://github.com/user-attachments/assets/b63662cf-7400-4cae-9a4e-86ce0bcc68c2)
+
 
 ---
 
@@ -197,11 +199,6 @@ python3 buttonLED.py
 - ✅ Various sensors (temperature, light, etc.)  
 - Caps (10x 6×6 mm tactile caps)  
 
----
-  
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c91c5757-9f6c-4a9a-9716-8a39a1fd7029" alt="IMG_4974" width="600" height="600">
-</p>
 
 ---
 
